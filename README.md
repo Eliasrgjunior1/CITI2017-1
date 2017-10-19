@@ -1,4 +1,4 @@
-# CITI2017-1
+# ALGORITMO BACKPROPAGATION
 #include <stdio.h>
 #include <stdlib.h>
 #include <conio.h>
