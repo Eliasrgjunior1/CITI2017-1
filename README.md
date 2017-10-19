@@ -1,4 +1,4 @@
-# CITI2017-1
+# Algoritmo Backpropagation
 #include <stdio.h>
 #include <stdlib.h>
 #include <conio.h>
@@ -235,7 +235,7 @@ main(){
 	
 }
 
-# CITI2017-1
+# Risilient Propagation
 #include <stdio.h>
 #include <stdlib.h>
 #include <conio.h>
@@ -620,7 +620,7 @@ main(){
 	
 }
 
-# CITI2017-1
+# Interpolação linear 2
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -689,7 +689,7 @@ main(){
 	
 }
 
-# CITI2017-1
+# Interpolação linear
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -731,7 +731,7 @@ main(){
 	
 }
 
-# CITI2017-1
+# Interpolação quadrática 2
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -812,7 +812,7 @@ main(){
 	
 }
 
-# CITI2017-1
+# Interpolação quadrática
 #include <stdio.h>
 #include <stdlib.h>
 
